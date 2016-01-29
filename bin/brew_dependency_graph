@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "brew_dependency_graph"
+
+puts BrewDependencyGraph.run()
